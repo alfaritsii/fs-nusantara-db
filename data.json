@@ -897,8 +897,8 @@
             "ip": "nodata",
             "hwid": "nodata",
             "discord": "nodata",
-            "license": "license:859d328daccbb791a375605b795060787d109344",
-            "steam": "steam:11000013f024803",
+            "license": "-license:859d328daccbb791a375605b795060787d109344",
+            "steam": "-steam:11000013f024803",
             "date": "nodata",
             "from": "nodata"
         },
