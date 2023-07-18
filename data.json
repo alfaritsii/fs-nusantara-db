@@ -2507,8 +2507,8 @@
             "ip": "nodata",
             "hwid": "",
             "discord": "nodata",
-            "license": "license:4abc14515ddb85261b25728c3dffa54e8be7a18c",
-            "steam": "steam:11000014bc6330a",
+            "license": "--license:4abc14515ddb85261b25728c3dffa54e8be7a18c",
+            "steam": "--steam:11000014bc6330a",
             "date": "nodata",
             "from": "nodata"
         },
