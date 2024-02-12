@@ -2043,16 +2043,6 @@
             "from": "nodata"
         },
         {
-            "name": "RenjiSygliam#GENEVA",
-            "ip": "nodata",
-            "hwid": "nodata",
-            "discord": "nodata",
-            "license": "license:08deff17b579fb3ef2d86b9d3f31710141e34c0c",
-            "steam": "steam:11000015a1f6175",
-            "date": "nodata",
-            "from": "nodata"
-        },
-        {
             "name": "𝘿𝙖𝙧𝙠ғᴀᴄᴇ",
             "ip": "nodata",
             "hwid": "nodata",
@@ -2651,17 +2641,7 @@
             "steam": "steam:110000157e67245",
             "date": "nodata",
             "from": "nodata"
-        },   
-	       {
-            "name": "RUWET",
-            "ip": "nodata",
-            "hwid": "",
-            "discord": "nodata",
-            "license": "license:5ab57d55695c5ec5e7066ebbcf52a19480371067",
-            "steam": "steam:11000015a6693a1",
-            "date": "nodata",
-            "from": "nodata"
-        },   
+        },      
 	       {
             "name": "Kucing",
             "ip": "nodata",
