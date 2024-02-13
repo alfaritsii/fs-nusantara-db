@@ -2043,16 +2043,6 @@
             "from": "nodata"
         },
         {
-            "name": "RenjiSygliam#GENEVA",
-            "ip": "nodata",
-            "hwid": "nodata",
-            "discord": "nodata",
-            "license": "license:08deff17b579fb3ef2d86b9d3f31710141e34c0c",
-            "steam": "steam:11000015a1f6175",
-            "date": "nodata",
-            "from": "nodata"
-        },
-        {
             "name": "𝘿𝙖𝙧𝙠ғᴀᴄᴇ",
             "ip": "nodata",
             "hwid": "nodata",
@@ -2639,6 +2629,56 @@
             "discord": "nodata",
             "license": "license:e8fe551a75b769fe01dc1b437401346d89292055",
             "steam": "steam:110000135dd04c2",
+            "date": "nodata",
+            "from": "nodata"
+        },
+	       {
+            "name": "GHO X JERRI DOMINIC #VINNY",
+            "ip": "nodata",
+            "hwid": "",
+            "discord": "nodata",
+            "license": "license:e168500abbace6a9f25a83ebf8a5928093458c1c",
+            "steam": "steam:110000157e67245",
+            "date": "nodata",
+            "from": "nodata"
+        },      
+	       {
+            "name": "Kucing",
+            "ip": "nodata",
+            "hwid": "",
+            "discord": "nodata",
+            "license": "license:7311f69bbc2c195e4e3ab653d030c13a8c620f63",
+            "steam": "steam:1100001606d8572",
+            "date": "nodata",
+            "from": "nodata"
+        },
+	       {
+            "name": "RZ - violence",
+            "ip": "nodata",
+            "hwid": "",
+            "discord": "nodata",
+            "license": "license:f6b1bf5b82d817b98fb6dd73a6fc1f42d508540f",
+            "steam": "steam:11000014d8a8f71",
+            "date": "nodata",
+            "from": "nodata"
+        },
+	       {
+            "name": "Bariky",
+            "ip": "nodata",
+            "hwid": "",
+            "discord": "nodata",
+            "license": "license:e3e24c2de70037b21eb90f02088d02c7cddef9e8",
+            "steam": "steam:11000015f331652",
+            "date": "nodata",
+            "from": "nodata"
+        },
+	       {
+            "name": "BSMC MANZ",
+            "ip": "nodata",
+            "hwid": "",
+            "discord": "nodata",
+            "license": "license:55fd7386ce1a210588469319f575f3a358f3a9b0",
+            "steam": "steam:11000015468aa19",
             "date": "nodata",
             "from": "nodata"
         },
